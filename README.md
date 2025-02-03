@@ -1,0 +1,1 @@
+Using real time data, this model extracts required values to determine which river in the surrounding geographical radius are most likely to flood thereby sending warning signals in hopes for government systems to alleviate the problem at hand before it worsens. 
